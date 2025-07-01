@@ -5,8 +5,10 @@
 :License: Apache 2.0
 
 = Project: Robotic Arm - Arm part
+
 This project is about a robotic arm that gets controlled by a glove via Wi-Fi.
 This 3D printed arm, is big enough to contain several servomotors that will rotate based on the glove's arduino's incoming data to the arm's one:
+
  * The rotation of 3 of them will pull strings attached to several fingers, making them _"flex"_.
  * The rotation of one of them will make the wrist rotate horizzontally.
  * The rotation of a mini servo will make the thumb rotate horizzontally.
@@ -19,6 +21,7 @@ This 3D printed arm, is big enough to contain several servomotors that will rota
 
 == Step 2: Print the 3D components, put them together and assemble the circuit
 **NOTE:** In these tests the _palm_ and _wrist_ were **not** used.
+
 image::circuit-up-all.jpg["Circuit, complete upper POV"]
 image::circuit-up.jpg["Circuit, upper POV"]
 image::circuit-lateral.jpg["Circuit, lateral POV"]
