@@ -4,4 +4,4 @@ you can find more infos [here](https://the-army-hope.github.io/)!!
 
 In this repository you can find all the assets and code we've used,<br>
 long live open source!<br>
-- Nex
+\- Nex
