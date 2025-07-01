@@ -4,7 +4,7 @@ you can find more infos [here](https://the-army-hope.github.io/)!!
 
 In this repository you can find all the assets and code we've done,<br>
 long live open source!<br>
-\-Nex
+\- Nex
 
 People who have contributed to this repository:
 | Person       | Work                                                                                                                              |
