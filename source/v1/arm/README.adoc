@@ -54,7 +54,7 @@ Besides the big 3D arm and finger pieces, strings, a breadboard and pin male/fem
 |===
 | ID | Part name           | Part number | Quantity
 | S1 | 15kg Servomotor     | B0C4T73SMB  | 4       
-| S1 | Mini Servomotor     | B0BBR4RB5H  | 1       
+| S2 | Mini Servomotor     | B0BBR4RB5H  | 1       
 | R4 | Arduino UNO R4 WiFi | ABX00087    | 1       
 |===
 
