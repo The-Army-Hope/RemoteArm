@@ -51,10 +51,10 @@ To contribute to this project you can make Pull Requests to its repository.
 At the moment, the total amount for the Glove is 100€ circa and you'll also need a 3D printer and hot glue.
 Besides a generic glove, a metallic piece for making springs, https://github.com/The-Army-Hope/RemoteArm/tree/main/assets[3D pieces] to place the springs with the potentiometers, strings, a little breadboard and pin male/female cables, you'll also need some specific parts:
 |===
-| ID | Part name           | Part number | Quantity
-| P1 | 10k Potentiometer   | WH148B10K   | 4       
-| F1 | 500g Flex Sensor    | B08B88W3H5  | 1       
-| R4 | Arduino UNO R4 WiFi | ABX00087    | 1       
+| ID | Part name               | Part number | Quantity
+| P1 | 10k Potentiometers pack | B0D6XZ2875  | 2 (4 or 5 if not as pack, depends if you'd like to do the elbow too)
+| F1 | 500g Flex Sensor        | B08B88W3H5  | 1                                                                   
+| R4 | Arduino UNO R4 WiFi     | ABX00087    | 1                                                                   
 |===
 
 
