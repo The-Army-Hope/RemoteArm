@@ -1,10 +1,10 @@
 :Author: The Army
 :Email: thearmy.hope@gmail.com
-:Date: 14/01/2025
+:Date: 17/07/2025
 :Revision: version#1
 :License: Apache 2.0
 
-= Project: Robotic Arm - Glove part
+= Project: The Army x Barcellona's Space Rover - Glove part
 
 This project is about a glove that controls a robotic arm via Wi-Fi.
 This glove is the base for attaching an arduino board and a breadbord with 4 potentiometers and a flex sensor.
@@ -23,8 +23,8 @@ Each component has its specific role:
 == Step 2: Print the 3D components, put them together and assemble the circuit
 **NOTE:** In these tests the _palm_ and _wrist_ were **not** used.
 
-image::circuit-up.jpg["Circuit, upper POV"]
-image::circuit-lateral.jpg["Circuit, lateral POV"]
+image::../circuit-up.jpg["Circuit, upper POV"]
+image::../circuit-lateral.jpg["Circuit, lateral POV"]
 
 == Step 3: Load the code
 Upload the code contained in this sketch on to your board.
